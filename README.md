@@ -1,2 +1,3 @@
-i am big java dev im curently working on ur mom ware so pls follow me!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# hi i am kambing
+currently learning java
 ![](https://komarev.com/ghpvc/?username=ProfKambing)
